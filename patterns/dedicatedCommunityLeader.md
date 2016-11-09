@@ -74,6 +74,10 @@ _BIOS at Robert Bosch GmbH_. Note that InnerSource at Bosch was, for the majorit
 **Review comment**
 - (**Done**) clarify that we started small and were declared an experiment - scaled up only after initial successes
 
+## Pattern Links
+
+[Review Committee](patterns/reviewCommittee.md)
+
 ## Status
 
 _Reviewed Pattern_
